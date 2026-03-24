@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated header — uses capsule-render -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:00d4aa&height=230&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20driouch23&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GIS%20Engineer%20%E2%80%A2%20Spatial%20Analyst%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:00d4aa&height=230&section=header&text=Hey%20👋%20I'm%20Mohamed%20Driouch&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GIS%20Engineer%20•%20Spatial%20Analyst%20•%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Turning+raw+geodata+into+actionable+intelligence+%F0%9F%8C%8D;Building+3D+spatial+apps+with+AI+%26+modern+web+tech+%F0%9F%9A%80;PostGIS+%7C+Python+%7C+React+%7C+Three.js+%7C+YOLO+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Turning+raw+geodata+into+actionable+intelligence+🌍;Building+3D+spatial+apps+with+AI+%26+modern+web+tech+🚀;PostGIS+%7C+Python+%7C+React+%7C+Three.js+%7C+YOLO+🧠" alt="Typing SVG" />
 </a>
 
 </div>
@@ -24,7 +22,7 @@
 * 🔭 Currently working on: **A 3D Maritime Port Management Dashboard using Three.js, React & PostGIS**
 * 🌱 Currently learning: **Advanced Spatial Statistics & Cloud-Native Geospatial (COG, STAC, PMTiles)**
 * 🤝 Looking to collaborate on: **Open-source GIS tools, spatial ML projects, and geospatial web apps**
-* 📫 Reach me at: *(add your email or LinkedIn here)*
+* 📫 Reach me at: **mohameddriouch721@gmail.com**
 
 ---
 
@@ -97,21 +95,13 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/driouch23/driouch23/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-driouch-02a3a2241/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d4aa?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/driouch23/portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohameddriouch721@gmail.com)
 
 </div>
 
