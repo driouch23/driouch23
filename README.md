@@ -3,13 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:00d4aa&height=230&section=header&text=Hey%20👋%20I'm%20Mohamed%20Driouch&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GIS%20Engineer%20•%20Spatial%20Analyst%20•%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Profile Photo -->
-<img src="./profile.png" alt="Mohamed Driouch" width="180" style="border-radius: 50%; border: 3px solid #00d4aa; box-shadow: 0 0 30px rgba(0,212,170,0.4);" />
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Turning+raw+geodata+into+actionable+intelligence+🌍;Building+3D+spatial+apps+with+AI+%26+modern+web+tech+🚀;PostGIS+%7C+Python+%7C+React+%7C+Three.js+%7C+YOLO+🧠" alt="Typing SVG" />
-</a>
+<img src="./profile.png" alt="Mohamed Driouch" width="180" />
 
 </div>
 
