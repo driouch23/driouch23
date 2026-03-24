@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a6b3c,100:00d4aa&height=230&section=header&text=Hey%20👋%20I'm%20Mohamed%20Driouch&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GIS%20Engineer%20•%20Spatial%20Analyst%20•%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Profile Photo -->
-<img src="./profile.png" alt="Mohamed Driouch" width="180" />
+<img src="https://raw.githubusercontent.com/driouch23/driouch23/main/avatar.png" alt="Mohamed Driouch" width="180" />
 
 </div>
 
